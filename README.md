@@ -1,4 +1,4 @@
-#JS en la Web: Manipulación del DOM con JavaScript
+# JS en la Web: Manipulación del DOM con JavaScript
 
 -Aprende como funciona el DOM<br>
 -Manipula el DOM para seleccionar, modificar, eliminar y crear nuevos elementos en el árbol de elementos<br>
